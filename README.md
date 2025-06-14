@@ -1,2 +1,1 @@
-# DRYERZ
-# created by HARSH AND HIS TEAM
+#DRYERZ
