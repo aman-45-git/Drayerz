@@ -1,0 +1,186 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/all.css">
+    <link rel="stylesheet" href="custom.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+
+    <title>DRYERZ | Contact</title>
+  </head>
+  <body>
+    
+
+
+
+    <header>
+      <div class="container">
+        <div class="row">
+          <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+          <nav class="navbar navbar-expand-lg navbar-light">
+            <a class="navbar-brand" href="index.html"><img src="img/logo1.png" width="150" height="120"></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+          
+            <div class="collapse navbar-collapse text-center" id="navbarSupportedContent">
+              <ul class="navbar-nav mr-auto menu">
+                <li class="nav-item active">
+                  <a class="nav-link" href="index.html">HOME 🏠<span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="service.html">OUR SERVICES 🧺</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="price.html">PRICES 💰</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="review.html">REVIEWS 📝</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="contact.html">CONTACT US ☎️</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="cart.html"><i class="fas fa-shopping-cart"></i></a>
+                </li>
+              </ul>
+            </div>
+          </nav>
+        </div>
+        </div>
+      </div>
+    </header>
+
+
+
+
+<div class="container">
+  <h2 class="text-center txt-8">DRYERZ</h2>
+  <p class="text-center">Best Dry Cleaning Service in 🇮🇳.</p>
+</div>
+
+<div class="container-fluid">
+<div class="row">
+  <div class="col-md-2">
+  </div>
+  <div class="col-md-8 mb-4">
+        <div id="map-container-google-2" class="z-depth-1-half map-container-2" style="height: 500px">
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3670.535735257904!2d76.84871217595078!3d23.077476414275818!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x397ce9ceaaaaaaab%3A0xa224b6b82b421f83!2sVIT%20Bhopal%20University!5e0!3m2!1sen!2sin!4v1712594164810!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+  </div>
+  <div class="col-md-2">
+  </div>
+</div>
+</div>
+
+
+<div class="container bg-custom-10">
+  <div class="row">
+    <div class="col-md-6">
+
+      <h3 class="txt-11">Contact us</h3>
+        <form>
+          <div class="form-row">
+            <div class="form-group col-md-6">
+              <input type="firstName" class="form-control" id="inputFirstName" placeholder="Enter your First Name">
+            </div>
+            <div class="form-group col-md-6">
+              <input type="lastName" class="form-control" id="inputLastName" placeholder="Enter your Last Name">
+            </div>
+            </div>
+            <div class="form-group">
+              <input type="email" class="form-control" id="inputEmail4" placeholder="Enter your email address">
+            </div>
+            <div class="form-group">
+              <input type="text" class="form-control" id="inputAddress2" placeholder="Enter subject here">
+            </div>
+            <div class="form-group">
+              <textarea class="common-textarea form-control" name="message" placeholder="Enter Messege" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Messege'" required=""></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary btn-custom-5">Send Message</button>
+        </form>
+
+    </div>
+
+    <div class="col-md-6">
+      <h3 class="txt-11">Contact Info</h3>
+          <h6><strong>DRYERZ</strong></h6>
+          <p>Kothri kalan VIT BHOPAL UNIVERSITY</p>
+          <br>
+          <h6><strong>Tel: +91 8368910545</strong></h6>
+          <p>7 Days a week</p>
+          <br>
+          <h6><strong>dryerz@gmail.com</strong></h6>
+          <p>Send us your query anytime!</p>
+    </div>
+  </div>
+</div>
+
+
+
+<div class="bg-custom-6">
+<div class="container">
+  <h2 class="text-center txt-6">DRYERZ</h2>
+  <div class="row">
+    <div class="col-md-4 txt-7">
+      <i class="fas fa-map-marker-alt fa-4x ico-custom-1"></i>
+      <p>Kothri kalan VIT BHOPAL UNIVERSITY <br>Tel: +91 9891345767</p>
+    </div>
+    <div class="col-md-4 txt-7">
+      <i class="fas fa-id-card fa-4x ico-custom-1"></i>
+      <p>PHONE : 8368910545 <br>Email : dryerz@gmail.com</p>
+    </div>
+    <div class="col-md-4 txt-7">
+      <i class="far fa-clock fa-4x ico-custom-1"></i>
+      <p>Stores Hours Of Operations : <br> 
+        Monday – Friday : 07:00 AM – 07:00 PM <br>
+        Saturday – Sunday: 08:00 AM – 06:00 PM</p>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-2">
+      
+    </div>
+    <div class="col-md-8 text-center">
+      <div class="social-icons ">
+        <a href="#">
+          <i class="fab fa-instagram-square fa-3x ico-custom-3"></i>
+        </a>
+        <a href="#">
+          <i class="fab fa-twitter-square fa-3x ico-custom-3"></i>
+        </a>
+        <a href="#">
+          <i class="fab fa-facebook-square fa-3x ico-custom-3"></i>
+        </a>
+      </div>
+    </div>
+    <div class="col-md-2">
+    </div>
+  </div>
+</div>
+</div>
+
+<div class="bg-custom-7">
+  <p class="mt-5 mb-3 text-center text-muted">Copyright &#169; 2024 - DRYERZ | All Rights Reserved</p>
+</div>
+
+
+
+
+
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="js/jquery-3.5.1.slim.min.js" ></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/all.js"></script>
+  </body>
+</html>

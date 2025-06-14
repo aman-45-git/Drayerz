@@ -1,0 +1,263 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/all.css">
+    <link rel="stylesheet" href="custom.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.metroui.org.ua/v4/css/metro-all.min.css">
+    
+
+    <title>DRYERZ </title>
+
+
+  </head>
+  <body>
+    
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light">
+  <a class="navbar-brand" href="index.html"><img src="img/logo1.png" width="150" height="120"></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item">
+        <a class="nav-link" href="index.html">HOME</a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="service.html">OUR SERVICES <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="review.html">REVIEWS</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="contact.html">CONTACT US</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+
+
+
+
+
+
+<div class="comtainer body-custom-1">
+    <div class="row">
+        <div class="col-md-2"></div>
+      <div class="col-md-4 card shadow-sm p-3 mb-5 bg-white rounded">
+        <h2 class="txt-14"><strong>Order Details</strong></h2>
+        <br>
+        <div class="media">
+          <img src="img/p-1.png" class="align-self-start mr-3" alt="...">
+          <div class="media-body">
+              <div class="row">
+                  <div class="col-md-6">
+                      <h5>Shirts Dry Clean</h5>
+                  </div>
+                  <div class="col-md-6 text-right">
+                    <p>$4.00 - $8.00</p>
+                    <a href="#">remove</a>
+                  </div>
+              </div>
+          </div>
+        </div>
+        <div class="media">
+          <img src="img/p-1.png" class="align-self-start mr-3" alt="...">
+          <div class="media-body">
+              <div class="row">
+                  <div class="col-md-6">
+                      <h5>Shirts Dry Clean</h5>
+                  </div>
+                  <div class="col-md-6 text-right">
+                    <p>$4.00 - $8.00</p>
+                    <a href="#">remove</a>
+                  </div>
+              </div>
+          </div>
+        </div>
+        <div class="media">
+          <img src="img/p-1.png" class="align-self-start mr-3" alt="...">
+          <div class="media-body">
+              <div class="row">
+                  <div class="col-md-6">
+                      <h5>Shirts Dry Clean</h5>
+                  </div>
+                  <div class="col-md-6 text-right">
+                    <p>$4.00 - $8.00</p>
+                    <a href="#">remove</a>
+                  </div>
+              </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+        <div class="col-md-3">
+<!--          
+          <table class="table">
+
+            <tr class="cart-subtotal">
+                <th>Subtotal</th>
+                <td data-title="Subtotal">$0.00</span></td>
+            </tr>                            
+            <tr class="order-total">
+                <th>Total</th>
+                <td data-title="Total">$0.00</td>
+            </tr>
+          </table>
+          <button type="button" class="btn btn-primary"><strong>Confirm Your Order</strong></button>
+          -->
+        </div>
+    </div>
+  </div>
+
+
+
+
+  <div class="comtainer body-custom-1">
+    <div class="row">
+      <div class="col-md-2"></div>
+      <div class="col-md-4 card">
+        <h2 class="txt-14"><strong>Select Delivery Date & Time</strong></h2>
+        <br>
+        <label for="deliveryDate">Pick Delivery Date</label>
+        <input type="date" name="deliveryDate" id="deliveryDate">
+        <p>Pick Delivery Time</p>
+        <div class="input-group mb-3">
+          <div class="input-group-prepend">
+            <label class="input-group-text" for="inputGroupSelect01">Options</label>
+          </div>
+          <select class="custom-select" id="inputGroupSelect01">
+            <option selected>Choose...</option>
+            <option value="1">10.00 am</option>
+            <option value="2">11.00 am</option>
+            <option value="3">12.00 pm</option>
+            <option value="4">01.00 pm</option>
+            <option value="5">02.00 pm</option>
+            <option value="6">03.00 pm</option>
+            <option value="7">04.00 pm</option>
+            <option value="8">05.00 pm</option>
+            <option value="9">06.00 pm</option>
+            <option value="10">07.00 pm</option>
+            <option value="11">08.00 pm</option>
+            <option value="12">09.00 pm</option>
+          </select>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+        <div class="col-md-3">
+        </div>
+    </div>
+  </div>
+
+  
+
+
+  <div class="comtainer body-custom-1">
+    <div class="row">
+      <div class="col-md-2"></div>
+      <div class="col-md-4 card">
+        <h2 class="txt-14"><strong>Provide Your contact Info</strong></h2>
+        <br>
+        <form class="form-signin">
+          <label for="inputName" class="sr-only">Your Name</label>
+          <input type="email" id="inputName" class="form-control" placeholder="Your Name" required autofocus>
+          <br>
+          <label for="inputContact" class="sr-only">Contact no.</label>
+          <input type="password" id="inputContact" class="form-control" placeholder="Contact Number" required>
+          <br>
+          <label for="inputEmail" class="sr-only">Email address</label>
+          <input type="email" id="inputEmail" class="form-control" placeholder="Email address" required autofocus>
+          <br>
+          <input type="text" class="form-control" id="inputAddress" placeholder="Apartment, studio, or floor">
+          <div class="checkbox mb-3">
+          </div>
+        </form>
+      </div>
+      <div class="col-md-1"></div>
+        <div class="col-md-3">
+          </div>
+    </div>
+  </div>
+
+  <div class="comtainer body-custom-1">
+    <div class="row">
+      <div class="col-md-2"></div>
+      <div class="col-md-4 card">
+        <h2 class="txt-14"><strong>Order Confirmation</strong></h2>
+        <br>
+        <table class="table">
+
+          <tr class="cart-subtotal">
+              <th>Subtotal</th>
+              <td data-title="Subtotal">$0.00</span></td>
+          </tr>                            
+          <tr class="order-total">
+              <th>Total</th>
+              <td data-title="Total">$0.00</td>
+          </tr>
+        </table>
+
+        <!-- Button trigger modal -->
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
+  <strong>Confirm Your Order</strong>
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Gaviota Cleaners</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        Order Placed Successfully!
+      </div>
+    </div>
+  </div>
+</div>
+
+      </div>
+      <div class="col-md-1"></div>
+        <div class="col-md-3">
+          </div>
+    </div>
+  </div>
+
+
+
+<div class="bg-custom-7">
+  <p class="mt-5 mb-3 text-center text-muted">Copyright &#169; 2024 - DRYERZ | All Rights Reserved</p>
+</div>
+
+
+
+
+
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="js/jquery-3.5.1.slim.min.js" ></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/all.js"></script>
+    <script src="https://cdn.metroui.org.ua/v4/js/metro.min.js"></script>
+    
+<!--    <script src="js/custom.js"></script>  --> 
+  </body>
+</html>
+
+

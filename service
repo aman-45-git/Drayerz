@@ -1,0 +1,237 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/all.css">
+    <link rel="stylesheet" href="custom.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+
+    <title>DRYERZ | SERVICES</title>
+  </head>
+  <body>
+    
+
+
+
+    <header>
+      <div class="container">
+        <div class="row">
+          <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+          <nav class="navbar navbar-expand-lg navbar-light">
+            <a class="navbar-brand" href="index.html"><img src="img/logo1.png" width="150" height="120"></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+          
+            <div class="collapse navbar-collapse text-center" id="navbarSupportedContent">
+              <ul class="navbar-nav mr-auto menu">
+                <li class="nav-item active">
+                  <a class="nav-link" href="index.html">HOME 🏠<span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="service.html">OUR SERVICES 🧺</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="price.html">PRICES 💰</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="review.html">REVIEWS 📝</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="contact.html">CONTACT US ☎️</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="cart.html"><i class="fas fa-shopping-cart cart-size "></i><span class="badge badge-primary badge-custom"></span></a>
+                </li>
+              </ul>
+            </div>
+          </nav>
+        </div>
+        </div>
+      </div>
+    </header>
+
+
+<div class="container">
+  <h2 class="text-center txt-12">OUR SERVICES</h2>
+<div class="row shadow p-3 mb-5 bg-white rounded">
+
+  <div class="col-lg-4 col-md-6 mb-4">
+    <div class="card h-100">
+      <a href="#"><img class="card-img-top" src="img/ser-1.png" alt=""></a>
+      <div class="card-body">
+        <h4 class="card-title">
+          <a href="#">Fix Hole</a>
+        </h4>
+        <h5>??</h5>
+        <p class="card-text">We take great pride in our craftsmanship and attention to detail, striving to exceed your expectations with every repair. Your satisfaction is our utmost priority.</p>
+      </div>
+      <!--<div class="card-footer">
+        <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
+        <button class="btn btn-info">Add to cart</button>
+      </div>-->
+    </div>
+  </div>
+
+  <div class="col-lg-4 col-md-6 mb-4">
+    <div class="card h-100">
+      <a href="#"><img class="card-img-top" src="img/ser-2.png" alt=""></a>
+      <div class="card-body">
+        <h4 class="card-title">
+          <a href="#">Hem Pants</a>
+        </h4>
+        <h5>??</h5>
+        <p class="card-text">At DRYERZ, we take great pride in our attention to detail and commitment to quality craftsmanship. </p>
+      </div>
+      <!--<div class="card-footer">
+        <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
+        <button class="btn btn-info">Add to cart</button>
+      </div>-->
+    </div>
+  </div>
+
+  <div class="col-lg-4 col-md-6 mb-4">
+    <div class="card h-100">
+      <a href="#"><img class="card-img-top" src="img/ser-3.png" alt=""></a>
+      <div class="card-body">
+        <h4 class="card-title">
+          <a href="#">Shirts Dry Clean</a>
+        </h4>
+        <h5>??</h5>
+        <p class="card-text">Our experienced team has handled your garment with the utmost care, ensuring it receives the specialized treatment it deserves.</p>
+      </div>
+      <!--<div class="card-footer">
+        <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
+        <button class="btn btn-info">Add to cart</button>
+      </div>-->
+    </div>
+  </div>
+
+  <div class="col-lg-4 col-md-6 mb-4">
+    <div class="card h-100">
+      <a href="#"><img class="card-img-top" src="img/ser-4.png" alt=""></a>
+      <div class="card-body">
+        <h4 class="card-title">
+          <a href="#">Suits Dry Clean 2</a>
+        </h4>
+        <h5>??</h5>
+        <p class="card-text">Rest assured, we've meticulously cared for each garment, ensuring they're returned to you looking immaculate and feeling fresh.</p>
+      </div>
+      <!--div class="card-footer">
+        <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
+        <button class="btn btn-info">Add to cart</button>
+      </div>-->
+    </div>
+  </div>
+
+  <div class="col-lg-4 col-md-6 mb-4">
+    <div class="card h-100">
+      <a href="#"><img class="card-img-top" src="img/ser-5.png" alt=""></a>
+      <div class="card-body">
+        <h4 class="card-title">
+          <a href="#">Taper</a>
+        </h4>
+        <h5>??</h5>
+        <p class="card-text">Our skilled tailors have meticulously tailored your garment to achieve the perfect fit you desire, ensuring both comfort and style.</p>
+      </div>
+      <!--div class="card-footer">
+        <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
+        <button class="btn btn-info">Add to cart</button>
+      </div>-->
+    </div>
+  </div>
+
+  <div class="col-lg-4 col-md-6 mb-4">
+    <div class="card h-100">
+      <a href="#"><img class="card-img-top" src="img/ser-6.png" alt=""></a>
+      <div class="card-body">
+        <h4 class="card-title">
+          <a href="#">Wedding Gown</a>
+        </h4>
+        <h5>??</h5>
+        <p class="card-text">Our team has spared no effort in ensuring every detail of your gown is pristine and ready to make you shine on your wedding day.</p>
+      </div>
+      <!--<div class="card-footer">
+        <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
+        <button class="btn btn-info">Add to cart</button>
+      </div>-->
+    </div>
+  </div>
+
+  <div class="col-lg-4 col-md-6 mb-4">
+    <div class="card h-100">
+      <a href="#"><img class="card-img-top" src="img/ser-7.png" alt=""></a>
+      <div class="card-body">
+        <h4 class="card-title">
+          <a href="#">Shirts For Laundry</a>
+        </h4>
+        <h5>??</h5>
+        <p class="card-text">We take pride in our meticulous laundering process, ensuring that your garments are treated with care and attention to detail</p>
+      </div>
+      <!--<div class="card-footer">
+        <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
+        <button class="btn btn-info">Add to cart</button>
+      </div>-->
+    </div>
+  </div>
+
+  <div class="col-lg-4 col-md-6 mb-4">
+    <div class="card h-100">
+      <a href="#"><img class="card-img-top" src="img/ser-8.png" alt=""></a>
+      <div class="card-body">
+        <h4 class="card-title">
+          <a href="#">Shirts Bundle</a>
+        </h4>
+        <h5>??</h5>
+        <p class="card-text">We've taken care to ensure that each shirt is neatly folded and bundled together for your convenience.</p>
+      </div>
+      <!--<div class="card-footer">
+        <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
+        <button class="btn btn-info">Add to cart</button>
+      </div>-->
+    </div>
+  </div>
+
+  <div class="col-lg-4 col-md-6 mb-4">
+    <div class="card h-100">
+      <a href="#"><img class="card-img-top" src="img/ser-9.png" alt=""></a>
+      <div class="card-body">
+        <h4 class="card-title">
+          <a href="#">Wedding Gown</a>
+        </h4>
+        <h5>??</h5>
+        <p class="card-text">Our dedicated team has spared no effort in ensuring that every delicate detail of your gown is pristine, ready to make you feel like the radiant bride you are on your special day.</p>
+      </div>
+      <!--<div class="card-footer">
+        <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
+        <button class="btn btn-info">Add to cart</button>
+      </div>-->
+    </div>
+  </div>
+  
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="js/jquery-3.5.1.slim.min.js" ></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/all.js"></script>
+  </body>
+</html>

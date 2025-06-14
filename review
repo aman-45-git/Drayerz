@@ -1,0 +1,244 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/all.css">
+    <link rel="stylesheet" href="custom.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+
+    <title>DRYERZ | REVIEW</title>
+  </head>
+  <body>
+    
+
+
+
+    <header>
+      <div class="container">
+        <div class="row">
+          <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+          <nav class="navbar navbar-expand-lg navbar-light">
+            <a class="navbar-brand" href="index.html"><img src="img/logo1.png" width="150" height="120"></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+          
+            <div class="collapse navbar-collapse text-center" id="navbarSupportedContent">
+              <ul class="navbar-nav mr-auto menu">
+                <li class="nav-item active">
+                  <a class="nav-link" href="index.html">HOME 🏠 <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="service.html">OUR SERVICES 🧺</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="price.html">PRICES 💰</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="review.html">REVIEWS 📝</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="contact.html">CONTACT US ☎️</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="cart.html"><i class="fas fa-shopping-cart"></i></a>
+                </li>
+              </ul>
+            </div>
+          </nav>
+        </div>
+        </div>
+      </div>
+    </header>
+
+
+
+
+<div class="container">
+  <h2 class="text-center txt-8">CLIENT REVIEWS</h2>
+</div>
+
+
+<div class="container-fluid body-custom-1">
+  <div class="row">
+    <div class="col-md-1">
+    </div>
+    <div class="col-md-3 card card-custom shadow-lg p-3 mb-5 bg-white rounded">
+      <div class="media">
+        <img src="img/d-1.png" class="align-self-start mr-3" alt="..." width="10%">
+        <div class="media-body">
+          <h5 class="mt-0">??</h5>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <p>??</p>
+          <p>??</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3 card card-custom shadow p-3 mb-5 bg-white rounded">
+      <div class="media">
+        <img src="img/d-1.png" class="align-self-start mr-3" alt="..." width="10%">
+        <div class="media-body">
+          <h5 class="mt-0">??</h5>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <p>??</p>
+          <p>??</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3 card card-custom shadow p-3 shadow p-3 mb-5 bg-white rounded">
+      <div class="media">
+        <img src="img/d-1.png" class="align-self-start mr-3" alt="..." width="10%">
+        <div class="media-body">
+          <h5 class="mt-0">??</h5>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <p>??</p>
+          <p>??</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-1">
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-1">
+    </div>
+    <div class="col-md-3 card card-custom shadow p-3 mb-5 bg-white rounded">
+      <div class="media">
+        <img src="img/d-1.png" class="align-self-start mr-3" alt="..." width="10%">
+        <div class="media-body">
+          <h5 class="mt-0">??</h5>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <p>??</p>
+          <p>??</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3 card card-custom shadow p-3 mb-5 bg-white rounded">
+      <div class="media">
+        <img src="img/d-1.png" class="align-self-start mr-3" alt="..." width="10%">
+        <div class="media-body">
+          <h5 class="mt-0">??</h5>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <p>??</p>
+          <p>??</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3 card card-custom shadow p-3 shadow p-3 mb-5 bg-white rounded">
+      <div class="media">
+        <img src="img/d-1.png" class="align-self-start mr-3" alt="..." width="10%">
+        <div class="media-body">
+          <h5 class="mt-0">??</h5>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <p>??</p>
+          <p>??</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-1">
+    </div>
+  </div>
+</div>
+
+
+<div class="container bg-custom-10">
+  <div class="row">
+    <div class="col-md-6">
+
+      <h3 class="txt-13">Do you like our service?</h3>
+      <h6><strong>Give us a quick review!</strong></h6>
+      <div class="rating">
+     
+        <input type="radio" id="star5" name="rating" value="5" /><label for="star5" title="Excellent!">5 stars</label>
+        <input type="radio" id="star4" name="rating" value="4" /><label for="star4" title="Good">4 stars</label>
+        <input type="radio" id="star3" name="rating" value="3" /><label for="star3" title="Average">3 stars</label>
+        <input type="radio" id="star2" name="rating" value="2" /><label for="star2" title="Low">2 stars</label>
+        <input type="radio" id="star1" name="rating" value="1" /><label for="star1" title="Bad">1 star</label>
+      </div>
+      <div class="form-group">
+        <input type="email" class="form-control" id="inputEmail4" placeholder="Enter your email address">
+      </div>
+      <div class="form-group">
+        <textarea class="common-textarea form-control" name="message" placeholder="Enter Messege" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Messege'" required=""></textarea>
+      </div>
+      <button type="submit" class="btn btn-primary btn-custom-5">Send Review</button>
+    </div>
+
+      
+    <div class="col-md-6">  
+
+    </div>
+  </div>
+</div>
+
+  <div class="row">
+    <div class="col-md-2">
+      
+    </div>
+    <div class="col-md-8 text-center">
+      <div class="social-icons ">
+        <a href="#">
+          <i class="fab fa-instagram-square fa-3x ico-custom-3"></i>
+        </a>
+        <a href="#">
+          <i class="fab fa-twitter-square fa-3x ico-custom-3"></i>
+        </a>
+        <a href="#">
+          <i class="fab fa-facebook-square fa-3x ico-custom-3"></i>
+        </a>
+      </div>
+    </div>
+    <div class="col-md-2">
+</div>
+</div>
+</div>
+</div>
+
+<div class="bg-custom-7">
+  <p class="mt-5 mb-3 text-center text-muted">Copyright &#169; 2024 - DRYERZ | All Rights Reserved</p>
+</div>
+
+
+
+
+
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="js/jquery-3.5.1.slim.min.js" ></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/all.js"></script>
+  </body>
+</html>
